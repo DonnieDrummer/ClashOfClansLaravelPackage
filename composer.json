@@ -1,0 +1,20 @@
+{
+  "name": "donnie/clash-of-clans",
+  "description": "Clash Of Clans API Laravel Package",
+  "authors": [
+    {
+      "name": "Ivan Levchenko",
+      "email": "donnie.il.drummer@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require-dev": {
+    "yajra/laravel-datatables-oracle": "^6.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Lviv\\DataTables\\": "src"
+    }
+  }
+}
